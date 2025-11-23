@@ -8,6 +8,8 @@
 ## Design
 ![WhatsApp Image 2025-11-23 at 20 10 51_fdbd215e](https://github.com/user-attachments/assets/f10160b6-6a1c-472a-b2a0-b83ead197b5b)
 ![WhatsApp Image 2025-11-23 at 20 11 32_cb3d15be](https://github.com/user-attachments/assets/79ba720f-73d3-4c45-ba4d-be9583e39e6e)
+![WhatsApp Image 2025-11-23 at 20 24 13_457dc3b4](https://github.com/user-attachments/assets/24d66ff0-39ae-43b3-85e3-cc1a45f4cb1e)
+
 ![WhatsApp Image 2025-11-23 at 20 11 47_7f2676a9](https://github.com/user-attachments/assets/068045e5-2878-41bf-876f-6f01c683619d)
 
 ## CIRCUIT DIAGRAM
